@@ -28,6 +28,7 @@ Use [The complete system audit](audits/complete-system-audit.md). It organizes d
 | [Complete system audit](audits/complete-system-audit.md) | Ask a coding agent to inspect the whole application, validate findings, and plan or execute focused fixes. |
 | [Verify and repair](audits/verify-and-repair.md) | Turn an existing audit report into reproducible tests and safe, reviewed changes. |
 | [Evidence example](examples/evidence-example.md) | See the difference between a credible finding and an unsupported guess. |
+| [Seedance 2.5 + Genjutsu video prompt builder](creative/video/seedance-2.5-genjutsu-prompt-builder.md) | Generate model-specific image-to-video or video-to-video prompts, with a reusable meta-prompt, aerial example, and reality checks. |
 | [Contributing](CONTRIBUTING.md) | Add or improve a prompt while keeping it understandable. |
 
 ## How to use
